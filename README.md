@@ -1,2 +1,2 @@
 # storybook-example
-StoryBook Example
+A taskbook made using React and Storybook
